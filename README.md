@@ -111,6 +111,28 @@ This repository contains **AWS cloud projects** demonstrating various services a
 </tr>
 </table>
 
+### 🤖 **Terraform GitHub Actions Deploy**
+
+<table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse; width: 100%; border: 2px solid #28A745;">
+<tr>
+<td width="30%" style="border: 2px solid #28A745; padding: 20px; vertical-align: top;">
+
+**[terraform-github-actions-deploy](./terraform-github-actions-deploy/)**  
+*Complete CI/CD automation with Terraform, GitHub Actions, and OIDC*
+- GitHub Actions workflows
+- OIDC authentication
+- Automated infrastructure deployment
+- Application CI/CD pipelines
+
+</td>
+<td width="60%" style="border: 2px solid #28A745; margin-left:20px; padding: 15px; vertical-align: middle; text-align: center;">
+
+<img src="./terraform-github-actions-deploy/assets/architecture.png" alt="GitHub Actions CI/CD Architecture" width="100%">
+
+</td>
+</tr>
+</table>
+
 ### 🚀 **ECS CI/CD Pipeline**
 
 <table border="1" cellpadding="15" cellspacing="0" style="border-collapse: collapse; width: 100%; border: 2px solid #D24939;">
